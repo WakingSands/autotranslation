@@ -1,7 +1,7 @@
 {
-  "name": "autotranslation",
+  "name": "@wakingsands/autotranslation",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "make.js",
   "license": "MIT",
   "dependencies": {
     "csv-parse": "^3.0.0"
