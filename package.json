@@ -1,0 +1,9 @@
+{
+  "name": "autotranslation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parse": "^3.0.0"
+  }
+}
